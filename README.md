@@ -6,8 +6,8 @@ Web application that collects data from the Ethereum blockchain about transactio
 ## Install & Run
 
 ```sh
-git clone https://github.com/NZT48/EthereumTransactionsCrawler.git
-cd EthereumTransactionsCrawler
+https://github.com/mmulika/Ethereum-transaction-crawler.git
+cd Ethereum-transaction-crawler
 npm install
 mongod &
 npm start
