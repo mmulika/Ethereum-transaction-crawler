@@ -1,4 +1,3 @@
-![Screenshot (71)](https://user-images.githubusercontent.com/48745848/133569793-0e82e8cb-85c3-4674-b0a6-7ce5d832fe5b.png)![Screenshot (72)](https://user-images.githubusercontent.com/48745848/133569833-f6469342-5cf6-46ff-9748-19845e7dc36d.png)
 
 # EthereumTransactionsCrawler
 
@@ -16,6 +15,4 @@ npm start
 
 Then visit [http://localhost:3800/](http://localhost:3800/)
 
-## To do
-
-* [ ] Input validation
+![Screenshot (71)](https://user-images.githubusercontent.com/48745848/133569793-0e82e8cb-85c3-4674-b0a6-7ce5d832fe5b.png)![Screenshot (72)](https://user-images.githubusercontent.com/48745848/133569833-f6469342-5cf6-46ff-9748-19845e7dc36d.png)
